@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Password Protected Area"
-AuthUserFile /reminisce/tree/main/Alice
-Require valid-user
