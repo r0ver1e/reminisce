@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile reminisce/Alice/.htpassword
+Require valid-user
