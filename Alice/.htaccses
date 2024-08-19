@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Password Protected Area"
-AuthUserFile Alice/.htpassword
+AuthUserFile /reminisce/tree/main/Alice
 Require valid-user
